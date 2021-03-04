@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfbfd59a-6f3e-4e2e-99b8-1ba73b3b26d9" name="Default Changelist" comment="[DEV] Optimized Todo List">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="deb7eb03-537c-4f71-bbfc-47d9b4911643" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1oYjrXExeahGgvKgxPsifgnLN9g" />
+  <component name="ProjectId" id="1oeQGB71aQIO1nBf7cDAmkZSKn7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,29 +32,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfbfd59a-6f3e-4e2e-99b8-1ba73b3b26d9" name="Default Changelist" comment="" />
-      <created>1613470617307</created>
+      <changelist id="deb7eb03-537c-4f71-bbfc-47d9b4911643" name="Default Changelist" comment="" />
+      <created>1613644478217</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613470617307</updated>
-      <workItem from="1613470618576" duration="4914000" />
-      <workItem from="1613622897884" duration="4839000" />
+      <updated>1613644478217</updated>
+      <workItem from="1613644479686" duration="1632000" />
+      <workItem from="1614833598322" duration="203000" />
     </task>
-    <task id="LOCAL-00001" summary="[DEV] Optimized Todo List">
-      <created>1613642874498</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1613642874498</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[DEV] Optimized Todo List">
-      <created>1613643441642</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1613643441642</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,9 +56,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[DEV] Optimized Todo List" />
-    <option name="LAST_COMMIT_MESSAGE" value="[DEV] Optimized Todo List" />
   </component>
 </project>
