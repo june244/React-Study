@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deb7eb03-537c-4f71-bbfc-47d9b4911643" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5caf8ebe-2625-42ea-bed5-82c891bca3ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HistorySample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithRouterSample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../immer-tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../immer-tutorial/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1oeQGB71aQIO1nBf7cDAmkZSKn7" />
+  <component name="ProjectId" id="1pHJsH4fGWSjtQfbKssyrpSZscq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,22 +38,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="deb7eb03-537c-4f71-bbfc-47d9b4911643" name="Default Changelist" comment="" />
-      <created>1613644478217</created>
+      <changelist id="5caf8ebe-2625-42ea-bed5-82c891bca3ed" name="Default Changelist" comment="" />
+      <created>1614834286444</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613644478217</updated>
-      <workItem from="1613644479686" duration="1632000" />
-      <workItem from="1614833598322" duration="687000" />
+      <updated>1614834286444</updated>
+      <workItem from="1614834287575" duration="2657000" />
     </task>
-    <task id="LOCAL-00001" summary="[STUDY][UI] Immer library">
-      <created>1614834097893</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1614834097893</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,10 +60,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[STUDY][UI] Immer library" />
-    <option name="LAST_COMMIT_MESSAGE" value="[STUDY][UI] Immer library" />
   </component>
 </project>
