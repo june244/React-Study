@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6fb45eb-a15a-44d4-a9a3-47c7f2e6eb42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9dfcf8af-ef00-45d9-94d5-1125a7bd5631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ColorBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/color.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news-viewer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../news-viewer/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pHQdTB8VbGI2NFAOgSJLYI258u" />
+  <component name="ProjectId" id="1pJc7mACMBCV6Rr2JcCOYDw5l1m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,21 +35,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6fb45eb-a15a-44d4-a9a3-47c7f2e6eb42" name="Default Changelist" comment="" />
-      <created>1614837622254</created>
+      <changelist id="9dfcf8af-ef00-45d9-94d5-1125a7bd5631" name="Default Changelist" comment="" />
+      <created>1614904468170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614837622254</updated>
-      <workItem from="1614837623375" duration="6564000" />
+      <updated>1614904468170</updated>
+      <workItem from="1614904469378" duration="2557000" />
     </task>
-    <task id="LOCAL-00001" summary="[STUDY][UI] news-viewer">
-      <created>1614846005699</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1614846005699</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,9 +57,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[STUDY][UI] news-viewer" />
-    <option name="LAST_COMMIT_MESSAGE" value="[STUDY][UI] news-viewer" />
   </component>
 </project>
