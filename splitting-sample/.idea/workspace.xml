@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a77e88c7-f045-45e5-8205-d83b641c86c4" name="Default Changelist" comment="">
+    <list default="true" id="99af3e4e-9efc-4668-a846-aa6b7c6f2652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SplitMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-redux-middleware/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-redux-middleware/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../node_modules/.bin/loose-envify" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../node_modules/.yarn-integrity" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/LICENSE" beforeDir="false" />
@@ -490,7 +492,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pSwEgWgN1N0SySdjd95KtBLMf2" />
+  <component name="ProjectId" id="1pYeGw3Y7wyqhRcwC3mOzfvQx5w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -505,27 +507,18 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a77e88c7-f045-45e5-8205-d83b641c86c4" name="Default Changelist" comment="" />
-      <created>1615189688635</created>
+      <changelist id="99af3e4e-9efc-4668-a846-aa6b7c6f2652" name="Default Changelist" comment="" />
+      <created>1615364358976</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615189688635</updated>
-      <workItem from="1615189689876" duration="10303000" />
+      <updated>1615364358976</updated>
+      <workItem from="1615364360138" duration="2533000" />
     </task>
-    <task id="LOCAL-00001" summary="[STUDY][UI] redux-middleware-tutorial">
-      <created>1615364253693</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1615364253693</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,13 +534,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[STUDY][UI] redux-middleware-tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="[STUDY][UI] redux-middleware-tutorial" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
