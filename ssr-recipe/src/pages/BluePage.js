@@ -1,8 +1,10 @@
 import React from 'react';
-import Blue from "../components/Red";
+import Blue from '../components/Blue';
 
-const RedPage = () => {
-    return <Blue/>;
+const BluePage = () => {
+    return (
+        <Blue/>
+    );
 };
 
-export default RedPage;
+export default BluePage;
