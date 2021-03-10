@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed446824-9321-4191-ba3a-4dddf9401ada" name="Default Changelist" comment="" />
+    <list default="true" id="a77e88c7-f045-45e5-8205-d83b641c86c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/SampleContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/createRequestSaga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/createRequestThunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/loggerMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-redux-tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pKHbDTpMJ59GTcD8547rvZkVCy" />
+  <component name="ProjectId" id="1pSwEgWgN1N0SySdjd95KtBLMf2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,33 +39,19 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/containers" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed446824-9321-4191-ba3a-4dddf9401ada" name="Default Changelist" comment="" />
-      <created>1614924930236</created>
+      <changelist id="a77e88c7-f045-45e5-8205-d83b641c86c4" name="Default Changelist" comment="" />
+      <created>1615189688635</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614924930236</updated>
-      <workItem from="1614924931392" duration="8346000" />
+      <updated>1615189688635</updated>
+      <workItem from="1615189689876" duration="10067000" />
     </task>
-    <task id="LOCAL-00001" summary="[STUDY][UI] react-redux tutorial">
-      <created>1615189565565</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1615189565565</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,10 +67,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[STUDY][UI] react-redux tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="[STUDY][UI] react-redux tutorial" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
