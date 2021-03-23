@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6fb45eb-a15a-44d4-a9a3-47c7f2e6eb42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog/blog-backend/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/blog-backend/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssr-recipe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssr-recipe/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614837622254</updated>
       <workItem from="1614837623375" duration="6564000" />
+      <workItem from="1615620308982" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="[STUDY][UI] news-viewer">
       <created>1614846005699</created>
@@ -62,6 +67,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[STUDY][UI] news-viewer" />

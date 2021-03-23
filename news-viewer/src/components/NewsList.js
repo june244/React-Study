@@ -23,7 +23,7 @@ const NewsList = ({category}) => {
         return axios.get(
             `https://newsapi.org/v2/top-headlines?country=kr${query}&apiKey=f6d51d9bb6484fd587ae8a1282e91fb0`
         );
-    })
+    },[category])
 
     if(loading){
         return <NewsListBlock>대기 중...</NewsListBlock>
@@ -34,6 +34,7 @@ const NewsList = ({category}) => {
     if(error){
         return <NewsListBlock>에러 발생!</NewsListBlock>
     }
+
     const {articles} = response.data;
     return (
         <NewsListBlock>

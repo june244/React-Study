@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1075dc1c-1b17-42b9-8995-6b5264177caa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/babelTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/UserContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/UsersContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/PreloadContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssr-recipe2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssr-recipe2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1075dc1c-1b17-42b9-8995-6b5264177caa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615368627176</updated>
-      <workItem from="1615368628405" duration="17910000" />
+      <workItem from="1615368628405" duration="18132000" />
     </task>
     <task id="LOCAL-00001" summary="[STUDY]">
       <created>1615370003347</created>
@@ -88,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615416802831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[STUDY][UI] ssr-recipe tutorial">
+      <created>1615506693944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615506693944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +83,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[STUDY]" />
     <MESSAGE value="[STUDY] 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="[STUDY] 2" />
+    <MESSAGE value="[STUDY][UI] ssr-recipe tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="[STUDY][UI] ssr-recipe tutorial" />
   </component>
 </project>
